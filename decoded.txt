@@ -1,0 +1,4 @@
+Bonjour, monde!
+Ceci est un texte de test pour le chiffrement de Cgsar.
+Il contient des lettres majuscules et minuscules, des chiffres 12345, et quelques caractfres spgciaux !@#.
+Voulez-vous essayer ce programme?

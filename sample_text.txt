@@ -1,0 +1,4 @@
+Bonjour, monde!
+Ceci est un texte de test pour le chiffrement de César.
+Il contient des lettres majuscules et minuscules, des chiffres 12345, et quelques caractères spéciaux !@#.
+Voulez-vous essayer ce programme?

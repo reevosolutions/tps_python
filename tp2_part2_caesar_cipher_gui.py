@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox, simpledialog
 
+
 def chiffrer_texte(texte, decalage):
     chiffre = ''
     for char in texte:
