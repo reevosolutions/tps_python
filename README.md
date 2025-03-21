@@ -17,7 +17,7 @@ Une fois Conda installé, vous pouvez créer un environnement virtuel spécifiqu
 
 ```bash
 # Créer un nouvel environnement Conda
-conda create -n monenv python=3.8 jupyter pandas numpy matplotlib
+conda create -n monenv python=3.9 jupyter pandas numpy matplotlib
 
 # Activer l'environnement
 conda activate monenv
